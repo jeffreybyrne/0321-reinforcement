@@ -1,4 +1,3 @@
-
 import requests
 
 ottawa_wards_response = requests.get('https://represent.opennorth.ca/boundaries/?sets=ottawa-wards')
